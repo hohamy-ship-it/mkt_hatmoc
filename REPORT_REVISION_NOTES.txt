@@ -1,0 +1,62 @@
+GHI CHÚ RIÊNG – CÁC PHẦN BÁO CÁO CẦN CHỈNH
+
+Dựa trên bản Word hiện tại của nhóm (21 trang), ưu tiên chỉnh:
+
+1. BÌA, DANH SÁCH NHÓM, PHÂN CÔNG (trang 1–4)
+- Điền tên trường, khoa, giảng viên, nhóm, lớp, họ tên, MSSV, số điện thoại.
+- Sửa phân công và tỷ lệ hoàn thành theo thực tế.
+- Hai trang bìa đang gần như trùng nhau; kiểm tra mẫu giảng viên để bỏ trang dư nếu không cần.
+
+2. MỤC 1.5 – CÁC KÊNH TRỰC TUYẾN (trang 8)
+- Báo cáo đã xác định website là kênh chính, Facebook Fanpage là kênh hỗ trợ. Cần tạo Fanpage/đăng bài hoặc sửa nội dung thành kế hoạch dự kiến nếu chưa triển khai.
+- Làm rõ Fanpage kéo lượt tiếp cận và dẫn link; website cung cấp thông tin, mini game và form mô phỏng.
+
+3. MỤC 2.3 – ĐỐI THỦ CẠNH TRANH (trang 11)
+- “Các gian hàng hạt dinh dưỡng độc lập...” là nhóm đối thủ chung, chưa phải đối thủ cụ thể.
+- Bổ sung ít nhất một thương hiệu/gian hàng cụ thể, kênh bán, sản phẩm/giá tham khảo, nguồn và ngày truy cập.
+- Không khẳng định điểm yếu đối thủ nếu không có bằng chứng quan sát.
+
+4. MỤC 2.4, 2.6, 3.1 – MỤC TIÊU, GIÁ, NGÂN SÁCH
+- Giá 189.000đ/159.000đ, ngân sách 4.000.000đ và KPI cần ghi rõ là giả định nếu không triển khai thật.
+- Giảm từ 189.000đ xuống 159.000đ tương đương khoảng 15,9%, có thể làm tròn 16%.
+- Nếu nhóm không chạy quảng cáo/thuê KOL-KOC, không mô tả các hoạt động đó như đã thực hiện.
+
+5. MỤC 2.5 – MÔ TẢ SẢN PHẨM
+- Đồng bộ với website: hộp 7 túi; hạnh nhân, óc chó, hạt điều, nam việt quất sấy.
+- Các tuyên bố “ít đường”, “không chất bảo quản”, “rang sấy nhiệt thấp”, “không thêm đường tinh luyện”, “no lâu” cần căn cứ. Nếu là ý tưởng giả định, ghi rõ giả định, không trình bày như thông tin đã kiểm chứng.
+
+6. MỤC 3.2 – NỘI DUNG TRIỂN KHAI
+- Bổ sung ảnh chụp Fanpage, bài đăng, ngày đăng, link bài và ảnh chia sẻ website.
+- Nếu chưa đăng bài, đổi “đã triển khai” thành “kế hoạch dự kiến”.
+
+7. MỤC 3.3 – SẢN PHẨM THỰC HÀNH (trang 18)
+- Thay URL Claude Artifact bằng URL website công khai sau khi triển khai GitHub Pages (hoặc nền tảng giảng viên chấp nhận).
+- Chèn ảnh chụp màn hình:
+  Hình 3.1: Trang đầu, sản phẩm và giá.
+  Hình 3.2: Thành phần và bố cục 7 túi theo ngày.
+  Hình 3.3: Mini game sau khi mở hạt, hiển thị mã.
+  Hình 3.4: Form mô phỏng và bảng tổng tiền.
+  Hình 3.5: Giao diện trên điện thoại (nếu có).
+- Nêu rõ website là mô phỏng; form không gửi đơn, không thanh toán, không lưu đơn.
+
+8. MỤC 3.4 – CHỈ SỐ ĐO LƯỜNG (trang 18–19)
+- Các số 3.420 lượt truy cập, 612 lượt chơi, 54% bounce rate, 58 đơn thử nghiệm, 1,7% chuyển đổi và tỷ lệ nguồn truy cập đã được báo cáo ghi là giả định/mô phỏng.
+- Nếu chưa có Analytics/dữ liệu Fanpage thật, giữ nhãn “giả định/mô phỏng” ở bảng, phần diễn giải và chú thích.
+- Nếu có dữ liệu thật, thay số giả định bằng ảnh thống kê, ghi rõ thời gian đo, công cụ đo, cách tính.
+- Website demo hiện chưa tích hợp Google Analytics; form không lưu đơn nên không thể xác minh chuyển đổi thật.
+
+9. MỤC 3.5 – ĐÁNH GIÁ VÀ ĐỀ XUẤT (trang 19)
+- Chỉ nhận xét “website tải nhanh” nếu nhóm đã kiểm tra/đo tốc độ.
+- Bổ sung hạn chế: chưa có backend, không lưu đơn, không thanh toán, chưa có đánh giá khách thật, ảnh sản phẩm hiện là minh họa.
+- Đề xuất chụp ảnh sản phẩm mẫu, bổ sung đánh giá có nguồn và tích hợp công cụ đo lường nếu có triển khai thật.
+
+10. TÀI LIỆU THAM KHẢO (trang 21)
+- Bổ sung nguồn đã dùng để phân tích đối thủ, xu hướng và thông tin sản phẩm.
+- Kiểm tra URL/ngày truy cập; thay URL Claude Artifact bằng website cuối cùng.
+- Xóa dòng nhắc “[Bổ sung thêm các đường dẫn nhóm thực sự sử dụng (nếu có)]” sau khi hoàn thiện.
+
+THỨ TỰ ƯU TIÊN
+(1) Hoàn thiện website và URL công khai; (2) tạo Fanpage/đăng bài và chụp minh chứng; (3) sửa mục 3.3–3.5; (4) rà lại giả định ở chương 1–2; (5) hoàn thiện bìa, phân công và tài liệu tham khảo.
+
+LƯU Ý
+Không viết rằng nhóm đã có đơn hàng, khách hàng, lượt truy cập hay doanh thu thật nếu chưa có dữ liệu xác thực. Phân biệt rõ “kế hoạch”, “mô phỏng” và “kết quả triển khai thực tế”.
